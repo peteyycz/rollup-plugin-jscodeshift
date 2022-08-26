@@ -1,0 +1,24 @@
+{
+  "name": "rollup-plugin-jscodeshift",
+  "version": "1.0.0",
+  "description": "Modify rollup output with jscodeshift transforms",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "rollup-plugin",
+    "replace",
+    "find",
+    "modify",
+    "jscodeshift",
+    "codemod",
+    "transform"
+  ],
+  "license": "MIT",
+  "author": "Peter Czibik <p.czibik@gmail.com>",
+  "dependencies": {
+    "jscodeshift": "^0.13.1"
+  },
+  "devDependencies": {
+    "jscodeshift-helper": "^1.1.0"
+  }
+}
